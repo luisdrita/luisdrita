@@ -14,7 +14,7 @@ I'm a **Research Associate in Artificial Intelligence at Imperial College London
 - **Safer mobility:** street-level imagery, crowdsourced perceptions, cycling-safety mapping and route planning through CycleAI, with research collaborations involving LSE and CITTA.
 - **Computational medicine:** graph and network machine learning, molecule discovery and computational nutrition, building on my PhD at Imperial College London.
 
-## Selected open-source projects
+## Selected public projects
 
 | Project | What you'll find |
 | --- | --- |
